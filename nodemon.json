@@ -1,0 +1,5 @@
+{
+    "watch": ["app", "components", "server.js"],
+    "ext": "js, jsx, json"
+    
+}
